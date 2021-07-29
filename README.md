@@ -24,5 +24,6 @@ Aplicar alguns modelos de aprendizado de máquina para prever a quantidade de co
 ## Próximos Passos
   
   - Tunar os hiperparâmetros para os modelos testados 
+  - Adicionar Validação Cruzada
   - Adicionar os modelos de regressão Lasso e regressão Ridge
-  - Adicionar uma forma mais robusta de seleção de variaveis. Ex.: Lasso (Regularização L1),Feature Importance (Para algoritmos de arvore), Permutação de Linhas e etc.
+  - Adicionar uma forma mais robusta de seleção de variaveis. Ex.: Lasso (Regularização L1), Feature Importance (Para algoritmos de arvore), Permutação de Linhas e etc.
